@@ -1,2 +1,2 @@
 
-0- Switching user to another user
+0- Switching from one user to another user
